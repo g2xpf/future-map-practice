@@ -1,5 +1,5 @@
 [package]
-name = "async-await-test"
+name = "future-map-practice"
 version = "0.1.0"
 authors = ["g2xpf <nameko.jack@gmail.com>"]
 edition = "2018"

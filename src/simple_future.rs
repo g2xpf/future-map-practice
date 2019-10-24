@@ -1,6 +1,6 @@
-use std::pin::Pin;
 use std::future::Future;
-use std::task::{Poll, Context};
+use std::pin::Pin;
+use std::task::{Context, Poll};
 
 pub struct ReturnFuture<T>(Option<T>);
 
